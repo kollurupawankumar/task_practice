@@ -1,0 +1,3 @@
+PLANC (pronounced as "plank") is a high level computer programming language. The acronym stands for Programming LAnguage for Nd Computers.
+Compilers were developed by Norsk Data for several architectures, including the Motorola 68000, 88000, x86, and the Norsk Data NORD-10 minicomputer architecture and ND-500 superminicomputer.
+The language was designed to be platform independent.

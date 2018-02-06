@@ -1,0 +1,1 @@
+Visual J++ (pronounced "Jay Plus Plus") is Microsoft's discontinued implementation of Java. Syntax, keywords, and grammatical conventions were the same as Java's.

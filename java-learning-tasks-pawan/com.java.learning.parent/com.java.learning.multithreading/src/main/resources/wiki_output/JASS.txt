@@ -1,0 +1,1 @@
+JASS and JASS2 (sometimes said to stand for Just Another Scripting Syntax) is a scripting language provided with an event-driven API created by Blizzard Entertainment. It is used extensively by their games Warcraft III (JASS2) and StarCraft (JASS) for scripting events in the game world.

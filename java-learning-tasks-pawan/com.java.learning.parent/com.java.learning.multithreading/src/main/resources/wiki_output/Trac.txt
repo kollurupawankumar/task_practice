@@ -1,0 +1,1 @@
+Trac is an open source, Web-based project management and bug tracking system. It has been adopted by a variety of organizations for use as a bug tracking system for both free and open-source software and proprietary projects and products. Trac integrates with major version control systems including ("out of the box") Subversion and Git.

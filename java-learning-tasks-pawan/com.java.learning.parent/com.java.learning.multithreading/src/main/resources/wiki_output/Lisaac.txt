@@ -1,0 +1,2 @@
+Lisaac is a statically typed prototype-based language conceived by Benoît Sonntag, in which the Isaac operating system is being written.
+The developers of Lisaac also included features such as dynamic inheritance from Self and contract programming from Eiffel. Despite being statically typed, it also shows homoiconic properties. The Lisaac transpiler produces optimized ANSI C code.

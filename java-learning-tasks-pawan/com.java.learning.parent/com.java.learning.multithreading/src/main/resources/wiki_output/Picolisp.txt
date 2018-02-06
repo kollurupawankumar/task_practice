@@ -1,0 +1,1 @@
+PicoLisp is an open source Lisp dialect.

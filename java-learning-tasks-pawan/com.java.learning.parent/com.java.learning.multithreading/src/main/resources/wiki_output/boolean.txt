@@ -1,0 +1,1 @@
+In most computer programming languages, a Boolean data type is a data type with only two possible values: true or false.

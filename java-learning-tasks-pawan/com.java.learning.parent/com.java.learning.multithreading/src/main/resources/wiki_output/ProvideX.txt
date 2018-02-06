@@ -1,0 +1,4 @@
+ProvideX is a computer language and development environment derived from Business Basic (a business oriented derivative of BASIC) in the mid-1980s.
+ProvideX is available on several operating systems (Unix/Linux/Windows/Mac OS X) and includes not only the programming language but also file system, presentation layer interface, and other components. The language is primarily designed for use in the development of business applications.
+Over the years since its inception and as the computer industry has changed, ProvideX has added functionality such as a graphical interface, client-server capabilities, access to external databases, web services, and, more recently, object-oriented programming capabilities.
+On October 8, 2010, PVX Plus Technologies announced that it has assumed all ongoing sales, development, and support of the ProvideX product line for Independent Software Vendors.

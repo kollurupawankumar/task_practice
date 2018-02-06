@@ -1,0 +1,1 @@
+SOPHAEROS is a computer code, used by the AECL and French Nuclear program to simulate the transfer of fission products in the reactor chamber.

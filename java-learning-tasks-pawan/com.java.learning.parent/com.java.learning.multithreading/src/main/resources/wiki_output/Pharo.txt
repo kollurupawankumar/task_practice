@@ -1,0 +1,2 @@
+Not to be confused with Pharoh
+Pharo is an open source dynamic and reflective language inspired from the programming language and environment Smalltalk. Pharo offers strong live programming features such as immediate object manipulation, live update, and hot recompilation.

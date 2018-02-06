@@ -1,0 +1,1 @@
+ObjectLOGO is a variant of the programming language Logo with object-oriented programming extensions and lexical scoping. Version 2.7 is sold by Digitool, Inc.

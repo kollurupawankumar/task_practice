@@ -1,0 +1,1 @@
+KiXtart is a closed source free-format scripting language for Windows. It is described as a logon script processor and enhanced batch scripting language by the official website.

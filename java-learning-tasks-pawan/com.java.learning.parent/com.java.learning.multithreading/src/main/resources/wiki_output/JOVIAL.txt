@@ -1,0 +1,1 @@
+JOVIAL is a high-level computer programming language similar to ALGOL, but specialized for the development of embedded systems (specialized computer systems designed to perform one or a few dedicated functions, usually embedded as part of a complete device including mechanical parts).

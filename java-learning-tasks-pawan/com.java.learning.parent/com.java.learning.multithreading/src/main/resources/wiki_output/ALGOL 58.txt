@@ -1,0 +1,1 @@
+ALGOL 58, originally known as IAL, is one of the family of ALGOL computer programming languages. It was an early compromise design soon superseded by ALGOL 60.

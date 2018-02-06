@@ -1,0 +1,2 @@
+Visual Prolog, also formerly known as PDC Prolog and Turbo Prolog, is a strongly typed object-oriented extension of Prolog. As Turbo Prolog, it was marketed by Borland but it is now developed and marketed by the Danish firm Prolog Development Center (PDC) that originally developed it. Visual Prolog can build Microsoft Windows GUI-applications, console applications, DLLs (dynamic link libraries), and CGI-programs. It can also link to COM components and to databases by means of ODBC.
+Logic languages are traditionally interpreted, but Visual Prolog is compiled.

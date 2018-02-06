@@ -1,0 +1,3 @@
+Little b is a domain-specific programming language, more specifically, a modeling language, designed to build modular mathematical models of biological systems. It was designed and authored by Aneil Mallavarapu. Little b is being developed in the Virtual Cell Program at Harvard Medical School, headed by mathematician Jeremy Gunawardena.
+This language is based on Lisp and is meant to allow modular programming to model biological systems. It will allow more flexibility to facilitate rapid change that is required to accurately capture complex biological systems.
+The language draws on techniques from artificial intelligence and symbolic mathematics, and provides syntactic conveniences derived from object-oriented languages.

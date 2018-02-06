@@ -1,0 +1,1 @@
+Milk is a programming language "that lets application developers manage memory more efficiently in programs that deal with scattered data points in large data sets."

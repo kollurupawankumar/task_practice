@@ -1,0 +1,1 @@
+SyncCharts is a graphical formalism dedicated to reactive system modeling. It allows specifying the reactive behavior, and the synchronous programming, of applications. SyncCharts is the name of the model. A syncChart is an instance. This language was created by Prof.

@@ -1,0 +1,1 @@
+Godot is a 2D and 3D cross-platform compatible game engine released as open source software under the MIT license. It was initially developed for several companies in Latin America before its public release.

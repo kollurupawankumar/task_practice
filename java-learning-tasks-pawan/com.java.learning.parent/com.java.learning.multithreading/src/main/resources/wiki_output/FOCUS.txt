@@ -1,0 +1,1 @@
+FOCUS is a fourth-generation programming language (4GL) computer programming language and development environment that is used to build database queries. Produced by Information Builders Inc., it was originally developed for data handling and analysis on the IBM mainframe. Subsequently versions for minicomputers and such as the VAX and other platforms were implemented.

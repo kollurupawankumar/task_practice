@@ -1,0 +1,1 @@
+Hamilton C shell is a clone of the Unix C shell and utilities for Microsoft Windows created by Nicole Hamilton at Hamilton Laboratories as a completely original work, not based on any prior code. It was first released on OS/2 on December 12, 1988 and on Windows NT in July 1992.

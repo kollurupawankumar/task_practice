@@ -1,0 +1,1 @@
+POP-2, often referred to as POP2 is a discontinued programming language developed around 1970 from the earlier language POP-1 (developed by Robin Popplestone in 1968, originally named COWSEL) by Robin Popplestone and Rod Burstall at the University of Edinburgh. It drew roots from many sources: the languages LISP and ALGOL 60, and theoretical ideas from Peter J. Landin.

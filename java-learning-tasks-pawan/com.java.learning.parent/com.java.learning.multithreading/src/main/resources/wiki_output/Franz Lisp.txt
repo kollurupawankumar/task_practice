@@ -1,0 +1,3 @@
+In computer programming, Franz Lisp was a Lisp system written at UC Berkeley by the students of Professor Richard J. Fateman, based largely on Maclisp and distributed with the Berkeley Software Distribution (BSD) for the Digital Equipment Corp (DEC) VAX. Piggybacking on the popularity of the BSD package, Franz Lisp was probably the most widely distributed and used Lisp system of the 1970s and 1980s.
+The name is a pun on composer Franz Liszt.
+It was written specifically to be a host for running the Macsyma computer algebra system on VAX. The project was started at the end of 1978 shortly after UC Berkeley took delivery of their first VAX 11/780 (named Ernie CoVax, the first of many systems with pun names at UCB).

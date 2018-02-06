@@ -1,0 +1,1 @@
+COMPASS is an acronym for COMPrehensive ASSembler. COMPASS is any of a family of macro assembly languages on Control Data Corporation's 3000 series, and on the 60-bit CDC 6000 series, 7600 and Cyber 70 and 170 series mainframe computers.

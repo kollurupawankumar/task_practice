@@ -1,0 +1,2 @@
+Parallel Specification and Implementation Language (ParaSail) is an object-oriented parallel programming language. Its design and ongoing implementation is described in a blog and on its official website.
+ParaSail uses a pointer-free programming model, where objects can grow and shrink, and value semantics are used for assignment. It has no global garbage collected heap. Instead, region-based memory management is used throughout. Types can be recursive, so long as the recursive components are declared optional.

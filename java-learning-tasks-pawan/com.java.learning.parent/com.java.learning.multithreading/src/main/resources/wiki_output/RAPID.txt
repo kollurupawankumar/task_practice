@@ -1,0 +1,1 @@
+RAPID is a high-level programming language used to control ABB industrial robots.

@@ -1,0 +1,4 @@
+AngelScript is a game-oriented interpreted compiled scripting language.
+AngelScript features static typing, object handles (similar to C++ pointers but garbage collected via reference counting), object-orientation, single inheritance, multiple inheritance with interfaces. Allows operators to be registered and overloaded. AngelScript can be used with any C++ IDE, such as Netbeans, Geany, Eclipse, and also supported by AngelJuice IDE developed specifically for the language.
+C and C++ functions can be called within an AngelScript environment. AngelScript's class syntax closely follows C++ classes by design: no proxy functions are required to embed AngelScript in C++ applications easing the two languages integration. There are several differences of AngelScript and C++:
+AngelScript does not support multiple inheritance.

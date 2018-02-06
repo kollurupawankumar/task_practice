@@ -1,0 +1,1 @@
+Swift is an implicitly parallel programming language that allows writing scripts that distribute program execution across distributed computing resources, including clusters, clouds, grids, and supercomputers.

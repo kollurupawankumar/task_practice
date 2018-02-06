@@ -1,0 +1,1 @@
+Miva Script is a proprietary computer scripting language mainly used for internet applications such as e-commerce. As of 2015, it is developed, maintained and owned by Miva Merchant, Inc., based in San Diego, California.

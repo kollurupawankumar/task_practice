@@ -1,0 +1,1 @@
+COWSEL (COntrolled Working SpacE Language) is a programming language designed between 1964 and 1966 by Robin Popplestone.

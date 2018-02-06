@@ -1,0 +1,1 @@
+OBJ2 is a programming language with Clear-like parametrised modules and a functional system based on equations.

@@ -1,0 +1,1 @@
+Q is a proprietary array processing language developed by Arthur Whitney and commercialized by Kx Systems. The language serves as the query language for kdb+, a disk based and in-memory, column-based database.

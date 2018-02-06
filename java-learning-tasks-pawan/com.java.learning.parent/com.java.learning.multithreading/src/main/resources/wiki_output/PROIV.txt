@@ -1,0 +1,3 @@
+PROIV is a low code development platform, developed and sold by NorthgateArinso, part of the Northgate Information Solutions Group. It has an active community of around 2500 developers and end-users worldwide, ranging from consultants to large multinationals, finance institutions, tax authorities, retailers, engineering companies, media operators and software houses.
+PROIV's usual application domain is database-centric business applications. PROIV has some similarities to languages such as ABAP, FOCUS and RPG.
+PROIV programs consist of declarative/non-procedural specifications that control the overall structure of the program and database access and that have an implicit sequence of execution (which PROIV programmers refer to as the timing cycle).

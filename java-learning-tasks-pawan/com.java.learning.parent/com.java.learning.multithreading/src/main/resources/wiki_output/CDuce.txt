@@ -1,0 +1,1 @@
+CDuce is an XML-oriented functional language, which extends XDuce in a few directions. It features XML regular expression types, XML regular expression patterns, XML iterators.

@@ -1,0 +1,1 @@
+PL360 (or PL/360) is a programming language designed by Niklaus Wirth and written by Niklaus Wirth, Joseph W. Wells, Jr., and Edwin Satterthwaite, Jr. for the IBM System/360 computer at Stanford University.

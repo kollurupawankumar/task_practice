@@ -1,0 +1,1 @@
+Krypton (styled KRYPTON) is a frame-based computer programming language.

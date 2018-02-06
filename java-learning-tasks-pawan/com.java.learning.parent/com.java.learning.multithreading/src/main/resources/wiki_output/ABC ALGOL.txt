@@ -1,0 +1,1 @@
+ABC ALGOL is an extension of the Algol 60 programming language with arbitrary data structures and user-defined operators, targeted for symbolic mathematics.

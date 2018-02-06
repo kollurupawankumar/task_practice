@@ -1,0 +1,1 @@
+Visual DialogScript (VDS) is an interpreted programming language for Microsoft Windows. It can be used to create small, fast programs. VDS has a large number of dialog and graphical elements available to create professional looking programs.

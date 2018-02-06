@@ -1,0 +1,1 @@
+Limnor is a generic-purpose codeless and visual programming system. The aim is to enable users to create computer software without directly coding in a texture programming language.

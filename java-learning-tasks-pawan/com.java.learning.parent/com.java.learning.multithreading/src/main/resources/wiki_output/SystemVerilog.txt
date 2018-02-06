@@ -1,0 +1,1 @@
+In the semiconductor and electronic design industry, SystemVerilog is a combined hardware description language and hardware verification language based on extensions to Verilog.

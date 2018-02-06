@@ -1,0 +1,2 @@
+LYaPAS (Russian: ЛЯПАС, short for "Logical Language for the Representation of Synthesis Algorithms") is a programming language created in the Soviet Union in 1964 by Arkady D.Zakrevskij of the Laboratory of System Programming and Logical Synthesis of the BSSR Academy of Sciences.
+LYaPAS is an extension to APL, and was initially designed to program the URAL-1 computer.

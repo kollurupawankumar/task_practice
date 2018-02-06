@@ -1,0 +1,1 @@
+C-- (pronounced cee minus minus) is a C-like programming language. Its creators, functional programming researchers Simon Peyton Jones and Norman Ramsey, designed it to be generated mainly by compilers for very high-level languages rather than written by human programmers.

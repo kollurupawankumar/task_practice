@@ -1,0 +1,1 @@
+Script.NET or S# is a metaprogramming language that provides scripting functionality in Microsoft .NET applications, allowing runtime execution of custom functionality, similar to VBA in Microsoft Office applications. The syntax of Script.NET is similar to JavaScript. It is designed to be simple and efficient scripting language allowing to customize .NET applications.

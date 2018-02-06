@@ -1,0 +1,1 @@
+UCSD Pascal was a Pascal programming language system that ran on the UCSD p-System, a portable, highly machine-independent operating system. UCSD Pascal was first released in 1978.

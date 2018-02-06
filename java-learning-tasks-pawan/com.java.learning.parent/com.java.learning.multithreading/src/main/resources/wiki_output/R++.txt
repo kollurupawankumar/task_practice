@@ -1,0 +1,3 @@
+R++ is a rule-based programming language based on C++. The United States patent describes R++ as follows:
+
+The R++ extension permits rules to be defined as members of C++ classes.

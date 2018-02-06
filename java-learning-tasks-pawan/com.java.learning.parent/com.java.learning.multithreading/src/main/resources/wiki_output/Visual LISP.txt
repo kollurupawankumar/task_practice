@@ -1,0 +1,1 @@
+AutoLISP is a dialect of the LISP programming language built specifically for use with the full version of AutoCAD and its derivatives, which include AutoCAD Map 3D, AutoCAD Architecture and AutoCAD Mechanical.

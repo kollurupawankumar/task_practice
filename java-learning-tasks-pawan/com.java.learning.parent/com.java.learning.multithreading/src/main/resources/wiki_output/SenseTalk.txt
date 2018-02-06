@@ -1,0 +1,1 @@
+SenseTalk is an English-like scripting language derived from the HyperTalk language used in HyperCard. SenseTalk was originally developed as the scripting language within the HyperSense multimedia authoring application on the NeXTStep and OpenStep platforms.

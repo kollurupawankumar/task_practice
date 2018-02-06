@@ -1,0 +1,1 @@
+FORMAC, acronym of FORmula MAnipulation Compiler, was an early computer algebra system based on FORTRAN. It was developed by Jean E. Sammet.

@@ -1,0 +1,1 @@
+F-Script is an object-oriented scripting programming language for Apple's OS X operating system developed by Philippe Mougin.

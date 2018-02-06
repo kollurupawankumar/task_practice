@@ -1,0 +1,1 @@
+CorVision is a fourth generation programming tool (4GL) currently owned by Attunity, Inc. CorVision was developed by Cortex Corporation for the VAX/VMS ISAM environment.

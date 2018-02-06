@@ -1,0 +1,1 @@
+OpenVera is a hardware verification language developed and managed by Synopsys. OpenVera is an interoperable, open hardware verification language for testbench creation. The OpenVera language was used as the basis for the advanced verification features in the IEEE Std.

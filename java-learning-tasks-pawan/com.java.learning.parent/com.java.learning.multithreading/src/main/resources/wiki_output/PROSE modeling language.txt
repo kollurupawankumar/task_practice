@@ -1,0 +1,6 @@
+PROSE was the mathematical 4GL virtual machine which established the holistic modeling paradigm known as Synthetic Calculus (AKA MetaCalculus). A successor to the SLANG/CUE simulation and optimization language developed at TRW Systems, it was introduced in 1974 on Control Data supercomputers. It was the first commercial language to employ automatic differentiation (AD), which was optimized to loop in the instruction-stack of the CDC 6600 CPU.
+Although PROSE was a rich block-structured procedural language, its focus was the blending of simultaneous-variable mathematical systems such as:
+implicit non-linear equations systems,
+ordinary differential-equations systems, and
+multidimensional optimization.
+Each of these kinds of system models were distinct and had operator templates to automate and solve them, added to the procedural syntax. These automated system problems were considered "holistic" because their unknowns were simultaneous, and they could not be reduced in formulation to solve piecewise, or by algebra manipulation (e.g. substitution), but had to be solved as wholes.

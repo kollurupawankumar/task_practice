@@ -1,0 +1,1 @@
+Text Adventure Development System (TADS) is a prototype-based domain-specific programming language and set of standard libraries for creating interactive fiction (IF) games.

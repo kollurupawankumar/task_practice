@@ -1,0 +1,1 @@
+SuperTalk is the scripting language used in SuperCard.

@@ -1,0 +1,1 @@
+xHarbour is a free multi-platform extended Clipper compiler, offering multiple graphic terminals (GTs), including console drivers, GUIs, and hybrid console/GUIs.

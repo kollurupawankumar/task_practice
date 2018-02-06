@@ -1,0 +1,1 @@
+Ubercode is a high level programming language designed by Ubercode Software and released in 2005 for Microsoft Windows. Ubercode is influenced by Eiffel and BASIC. It is commercial software and can be tried out for free for 30 days.

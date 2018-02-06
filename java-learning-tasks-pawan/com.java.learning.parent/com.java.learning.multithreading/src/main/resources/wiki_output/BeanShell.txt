@@ -1,0 +1,1 @@
+BeanShell is a Java-like scripting language, invented by Patrick Niemeyer.

@@ -1,0 +1,2 @@
+Laboratory Virtual Instrument Engineering Workbench (LabVIEW) is a system-design platform and development environment for a visual programming language from National Instruments.
+The graphical language is named "G"; not to be confused with G-code.

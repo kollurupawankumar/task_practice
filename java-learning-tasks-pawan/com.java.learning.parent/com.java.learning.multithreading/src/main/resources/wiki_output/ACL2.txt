@@ -1,0 +1,2 @@
+ACL2 (A Computational Logic for Applicative Common Lisp) is a software system consisting of a programming language, an extensible theory in a first-order logic, and a mechanical theorem prover. ACL2 is designed to support automated reasoning in inductive logical theories, mostly for the purpose of software and hardware verification. The input language and implementation of ACL2 are built on Common Lisp. ACL2 is free, open source (BSD license) software.
+The ACL2 programming language is an applicative (side-effect free) variant of Common Lisp. ACL2 is untyped.

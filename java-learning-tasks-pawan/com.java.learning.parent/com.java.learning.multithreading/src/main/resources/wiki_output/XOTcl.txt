@@ -1,0 +1,1 @@
+XOTcl is an object-oriented extension for the Tool Command Language created by Gustaf Neumann and Uwe Zdun. It is a derivative of MIT OTcl. XOTcl is based on a dynamic object system with metaclasses which as influenced by CLOS. Class and method definitions are completely dynamic.

@@ -1,0 +1,1 @@
+CFEngine is an open source configuration management system, written by Mark Burgess.

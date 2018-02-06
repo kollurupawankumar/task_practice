@@ -1,0 +1,2 @@
+BLISS is a system programming language developed at Carnegie Mellon University by W. A. Wulf, D. B. Russell, and A. N. Habermann around 1970. It was perhaps the best known systems programming language right up until C made its debut a few years later. Since then, C took off and BLISS faded into obscurity. When C was in its infancy, a few projects within Bell Labs were debating the merits of BLISS vs. C.
+BLISS is a typeless block-structured language based on expressions rather than statements, and includes constructs for exception handling, coroutines, and macros.

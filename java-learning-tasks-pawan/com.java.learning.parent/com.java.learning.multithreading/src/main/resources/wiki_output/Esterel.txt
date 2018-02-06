@@ -1,0 +1,3 @@
+Esterel is a synchronous programming language for the development of complex reactive systems. The imperative programming style of Esterel allows the simple expression of parallelism and preemption. As a consequence, it is well suited for control-dominated model designs.
+The development of the language started in the early 1980s, and was mainly carried out by a team of Ecole des Mines de Paris and INRIA led by Gérard Berry. Current compilers take Esterel programs and generate C code or hardware (RTL) implementations (VHDL or Verilog).
+The language is still under development, with several compilers out. The commercial version of Esterel is the development environment Esterel Studio.

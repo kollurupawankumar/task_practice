@@ -1,0 +1,1 @@
+Strongtalk is a Smalltalk environment with optional static typing support. Strongtalk can make some compile time checks, and offer "stronger" type safety guarantees; this is the source of its name.

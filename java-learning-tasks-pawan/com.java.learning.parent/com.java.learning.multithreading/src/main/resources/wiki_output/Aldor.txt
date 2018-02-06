@@ -1,0 +1,2 @@
+Aldor is a programming language. It is the successor of A# as the extension language of the Axiom computer algebra system.
+Aldor combines imperative, functional, and object-oriented features. It has an elaborate type system,"Aldor Programming Language". Aldor.org. Retrieved 12 February 2017.  allowing types to be used as first-class values.

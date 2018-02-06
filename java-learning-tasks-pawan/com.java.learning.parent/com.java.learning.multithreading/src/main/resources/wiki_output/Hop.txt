@@ -1,0 +1,1 @@
+A hop is a type of jump.

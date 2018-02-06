@@ -1,0 +1,1 @@
+NewtonScript is a prototype-based programming language created to write programs for the Newton platform.

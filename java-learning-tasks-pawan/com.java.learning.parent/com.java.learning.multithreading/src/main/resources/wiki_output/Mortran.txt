@@ -1,0 +1,2 @@
+Mortran (More Fortran) is an extension of the Fortran programming language used for scientific computation. It introduces syntax changes, including the use of semicolons to end statements, in order to improve readability and flexibility. Mortran code is macro-processed into Fortran code for compilation.
+Note that Mortran, like many preprocessors, does not make a complete analysis of the Fortran source and, like many preprocessors, may not always make its assumptions/requirements explicit. Consider, for example, Mortran multiple assignment.

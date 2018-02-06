@@ -1,0 +1,2 @@
+SiMPLE (a recursive acronym for SiMPLE Modular Programming Language & Environment) is a programming development system that was created to provide easy programming capabilities for everybody, especially non-professionals.
+The website of SimpleCodeWorks is now unaccessable (dead) and the only way to download the program is off archive.org.

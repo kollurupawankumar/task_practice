@@ -1,0 +1,2 @@
+Cython is a superset of the Python programming language, designed to give C-like performance with code which is mostly written in Python.
+Cython is a compiled language that generates CPython extension modules.

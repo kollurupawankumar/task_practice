@@ -1,0 +1,3 @@
+WebQL Home Page http://www.ql2.com/products-services/ql2-webql/
+WebQL has been on the market since 2001. The most current version, WebQL 3.1, was released in November 2006. WebQL was named a "Trend Setting Product for 2006" by KM World. WebQL customers include 5 of the top 10 pharmaceutical companies and 7 of the top 10 airlines.
+In many web data integration tasks, the desired data is located on a web page that is accessible only through a form that needs to be completed to access detailed information. WebQL is capable of automatically populating such variable data to gain access to the “deep” Web.

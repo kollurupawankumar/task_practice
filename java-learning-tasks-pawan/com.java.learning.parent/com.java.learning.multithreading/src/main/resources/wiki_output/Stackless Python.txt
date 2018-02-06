@@ -1,0 +1,1 @@
+Stackless Python, or Stackless, is a Python programming language interpreter, so named because it avoids depending on the C call stack for its own stack. The most prominent feature of Stackless is microthreads, which avoid much of the overhead associated with usual operating system threads.

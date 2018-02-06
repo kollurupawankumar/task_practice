@@ -1,0 +1,1 @@
+Absys was an early declarative programming language from the University of Aberdeen. It anticipated a number of features of Prolog such as negation as failure, aggregation operators, the central role of backtracking and constraint solving.

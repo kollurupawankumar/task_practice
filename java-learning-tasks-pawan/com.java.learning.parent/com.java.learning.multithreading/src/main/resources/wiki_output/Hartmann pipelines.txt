@@ -1,0 +1,1 @@
+CMS Pipelines implements the pipeline concept under the VM/CMS operating system. The programs in a pipeline operate on a sequential stream of records. A program writes records that are read by the next program in the pipeline.

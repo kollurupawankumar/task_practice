@@ -1,0 +1,3 @@
+Yorick is a character in William Shakespeare's play Hamlet. He is the dead court jester whose skull is exhumed by the First Gravedigger in Act 5, Scene 1, of the play. The sight of Yorick's skull evokes a monologue from Prince Hamlet on mortality:
+
+Alas, poor Yorick! I knew him, Horatio; a fellow of infinite jest, of most excellent fancy; he hath borne me on his back a thousand times; and now, how abhorred in my imagination it is! My gorge rises at it.

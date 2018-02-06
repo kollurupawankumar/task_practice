@@ -1,0 +1,1 @@
+GNU E is an extension of C++ designed for writing software systems to support persistent applications.

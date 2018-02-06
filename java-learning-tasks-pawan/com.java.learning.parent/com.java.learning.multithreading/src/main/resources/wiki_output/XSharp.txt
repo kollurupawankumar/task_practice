@@ -1,0 +1,1 @@
+The XSharp compiler is a compiler intended to support multiple dialects in the xBase programming language family.

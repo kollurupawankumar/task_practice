@@ -1,0 +1,1 @@
+VSXu (VSX Ultra) is an OpenGL-based (hardware-accelerated), modular programming environment with its main purpose to visualize music/audio data and create 3D effects in real-time. Available for Windows and GNU/Linux.

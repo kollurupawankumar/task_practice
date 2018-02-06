@@ -1,0 +1,1 @@
+The Z notation  is a formal specification language used for describing and modelling computing systems.

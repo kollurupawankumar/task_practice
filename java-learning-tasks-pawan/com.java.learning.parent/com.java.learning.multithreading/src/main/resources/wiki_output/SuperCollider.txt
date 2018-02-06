@@ -1,0 +1,2 @@
+SuperCollider is an environment and programming language originally released in 1996 by James McCartney for real-time audio synthesis and algorithmic composition.
+Since then it has been evolving into a system used and further developed by both scientists and artists working with sound.

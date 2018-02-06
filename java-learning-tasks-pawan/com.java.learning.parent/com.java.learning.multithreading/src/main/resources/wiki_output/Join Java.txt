@@ -1,0 +1,1 @@
+Join Java is a programming language based on the join-pattern that extends the standard Java programming language with the join semantics of the join-calculus. It was written at the University of South Australia within the Reconfigurable Computing Lab by Dr.

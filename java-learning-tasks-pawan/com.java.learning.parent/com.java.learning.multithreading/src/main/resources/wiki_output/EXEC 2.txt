@@ -1,0 +1,1 @@
+EXEC 2 is an interpreted, command procedure control, computer scripting language used by the EXEC 2 Processor supplied with the IBM Virtual Machine/System Product (VM/SP) operating system.
