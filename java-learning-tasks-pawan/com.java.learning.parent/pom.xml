@@ -26,5 +26,6 @@
   </dependencies>
   <modules>
     <module>com.java.learning.multithreading</module>
+    <module>com.java.learning.annotation</module>
   </modules>
 </project>
