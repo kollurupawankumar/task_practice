@@ -1,4 +1,4 @@
-package com.java.learning.multithreading.utils;
+package com.java.learning.multithreading.common;
 
 import java.io.IOException;
 import java.nio.file.Files;

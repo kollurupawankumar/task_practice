@@ -8,7 +8,7 @@ import java.util.function.Supplier;
 
 import org.apache.log4j.Logger;
 
-import com.java.learning.multithreading.utils.Constants;
+import com.java.learning.multithreading.common.Constants;
 
 /**
  * Class readds the file and creates words, uses the executor service to perform

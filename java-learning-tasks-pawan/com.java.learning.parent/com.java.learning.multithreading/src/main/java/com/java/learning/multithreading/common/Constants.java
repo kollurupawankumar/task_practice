@@ -1,4 +1,4 @@
-package com.java.learning.multithreading.utils;
+package com.java.learning.multithreading.common;
 
 
 /**

@@ -8,9 +8,9 @@ import java.util.stream.Stream;
 
 import org.apache.log4j.Logger;
 
+import com.java.learning.multithreading.common.Constants;
+import com.java.learning.multithreading.common.IOUtils;
 import com.java.learning.multithreading.exception.MultiThreadException;
-import com.java.learning.multithreading.utils.Constants;
-import com.java.learning.multithreading.utils.IOUtils;
 
 /**
  * Use fork and join to process the data and write to file

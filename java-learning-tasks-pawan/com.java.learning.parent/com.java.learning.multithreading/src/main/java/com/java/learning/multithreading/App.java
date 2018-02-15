@@ -1,7 +1,7 @@
 package com.java.learning.multithreading;
 
+import com.java.learning.multithreading.common.Constants;
 import com.java.learning.multithreading.split.SplitFile;
-import com.java.learning.multithreading.utils.Constants;
 import com.java.learning.multithreading.wiki.WikiOperation;
 import com.java.learning.multithreading.word.AutoSuggest;
 import com.java.learning.multithreading.word.WordCount;

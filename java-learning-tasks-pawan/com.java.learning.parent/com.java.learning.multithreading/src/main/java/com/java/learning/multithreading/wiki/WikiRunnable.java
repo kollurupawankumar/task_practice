@@ -11,9 +11,9 @@ import org.apache.log4j.Logger;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+import com.java.learning.multithreading.common.Constants;
+import com.java.learning.multithreading.common.IOUtils;
 import com.java.learning.multithreading.exception.MultiThreadException;
-import com.java.learning.multithreading.utils.Constants;
-import com.java.learning.multithreading.utils.IOUtils;
 
 /**
  * Thread used to access the url and write the content to a file

@@ -1,35 +1,34 @@
 package com.java.learning.multithreading.ds;
 
-import java.util.HashMap;
+import java.util.LinkedList;
 
+/**
+ * This is the Node structure
+ * @author pawank
+ *
+ */
 public class TrieNode {
 	
-	private char value;
-	private HashMap<Character, TrieNode> children;
-	private boolean bIsEnd;
-
-
-	public TrieNode(char ch) {
-		value = ch;
-		children = new HashMap<>();
-		bIsEnd = false;
-	}
-
-	public HashMap<Character, TrieNode> getChildren() {
-		return children;
-	}
-
-	public char getValue() {
-		return value;
-	}
-
-	public void setIsEnd(boolean val) {
-		bIsEnd = val;
-	}
-
-	public boolean isEnd() {
-		return bIsEnd;
-	}
-
+	char data; 
+    boolean isEnd; 
+    int count;  
+    LinkedList<TrieNode> childList; 
+ 
+    /* Constructor */
+    public TrieNode(char c)
+    {
+        childList = new LinkedList<TrieNode>();
+        isEnd = false;
+        data = c;
+        count = 0;
+    }  
+    public TrieNode getChild(char c)
+    {
+        if (childList != null)
+            for (TrieNode eachChild : childList)
+                if (eachChild.data == c)
+                    return eachChild;
+        return null;
+    }
 	
 }
