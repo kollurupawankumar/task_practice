@@ -1,8 +1,14 @@
 package com.java.learning.multithreading.ds;
 
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Iterator;
+import java.util.LinkedList;
+import java.util.List;
 
 import org.apache.log4j.Logger;
+
+import junit.framework.Assert;
 
 /**
  * This contains the operations on the Trie data structure
@@ -14,6 +20,9 @@ public class Trie {
 	private Logger log = Logger.getLogger(Trie.class);
 
 	private TrieNode root;
+	
+	private List<TrieResponseModel> wordCount = new ArrayList<TrieResponseModel>();
+	
 
 	/* Constructor */
 	public Trie() {
@@ -89,6 +98,25 @@ public class Trie {
 	}
 	
 	/**
+	 * 
+	 * @param key
+	 * @return
+	 */
+	 public List<TrieResponseModel> containsPrefix(String prefix) {
+	       TrieNode triNode =  searchNode(prefix);
+	       if (triNode == null){
+	    	   triNode = getRoot();
+	       }
+	       LinkedList<TrieNode> children = triNode.childList;
+	       for (TrieNode node : children){
+	    	   getWordsFromNodeInTrie(node, " ");
+	       }
+	       return wordCount;
+	    }
+
+
+	
+	/**
 	 *  This function is used to remove function from trie 
 	 * @param word
 	 */
@@ -116,7 +144,10 @@ public class Trie {
 	 * @param root
 	 * @param s
 	 */
-	public void printAllWordsInTrie(TrieNode root, String s) {
+	public void getWordsFromNodeInTrie(TrieNode root, String s) {
+		if ("".equalsIgnoreCase(s.trim())){
+			wordCount = new ArrayList<TrieResponseModel>();
+		}
 		TrieNode current = root;
 		if (root.childList == null || root.childList.size() == 0)
 			return;
@@ -124,9 +155,12 @@ public class Trie {
 		while (iter.hasNext()) {
 			TrieNode node = iter.next();
 			s += node.data;
-			printAllWordsInTrie(node, s);
+			getWordsFromNodeInTrie(node, s);
 			if (node.isEnd == true) {
-				System.out.println( s + " : "+ node.count);
+				TrieResponseModel model = new TrieResponseModel();
+				model.setWord(s);
+				model.setCount(node.count);
+				wordCount.add(model);
 				s = s.substring(0, s.length() - 1);
 			} else {
 				s = s.substring(0, s.length() - 1);
@@ -134,4 +168,12 @@ public class Trie {
 		}
 
 	}
+
+	public List<TrieResponseModel> getWordCount() {
+		return wordCount;
+	}
+
+	
+	
+	
 }

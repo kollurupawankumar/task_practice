@@ -14,14 +14,15 @@ import org.apache.log4j.Logger;
 import com.java.learning.multithreading.common.Constants;
 import com.java.learning.multithreading.ds.Trie;
 import com.java.learning.multithreading.ds.TrieResponseModel;
+
 /**
- * This call is used to make the words count of the files in the folders
+ * This class uses streams for the auto suggestions
  * @author pawank
  *
  */
-public class WordCountTrie {
+public class AutoSuggestTrie {
 	
-	private Logger log = Logger.getLogger(WordCountTrie.class);
+private Logger log = Logger.getLogger(AutoSuggestTrie.class);
 	
 	private Trie trie = new Trie();
 	
@@ -31,7 +32,7 @@ public class WordCountTrie {
 	 * @param folderName
 	 * @throws IOException
 	 */
-	public void executeWordCount(String folderName) throws IOException{
+	public void executeAutoSuggestions(String folderName, String prefix) throws IOException{
 		
 		log.info("Execuitng wordcount for the folder :" + folderName);
 		
@@ -41,14 +42,16 @@ public class WordCountTrie {
 		log.info("No of executors taken : 5");
 		ExecutorService executor = Executors.newFixedThreadPool(5);
 		for (Path str : fileList) {
-			Runnable worker = new WordCountRunnable(trie, str.toString());
+			if (str.toString().equalsIgnoreCase(Constants.WIKI_OUTPUT_FOLDER)){
+				continue;
+			}
+			Runnable worker = new AutoSuggestRunnable(trie, str.toString(), prefix);
 			executor.execute(worker);
 		}
 		executor.shutdown();
 		while (!executor.isTerminated()) {
 		}
 		
-		trie.getWordsFromNodeInTrie(trie.getRoot(), " ");
 		log.info("Completed the  wordcount");
 	}
 	
@@ -59,14 +62,13 @@ public class WordCountTrie {
 	}
 	
 	public static void main(String[] args) {
-		WordCountTrie trie = new WordCountTrie();
+		AutoSuggestTrie tri = new AutoSuggestTrie();
 		try {
-			trie.executeWordCount(Constants.WIKI_OUTPUT_FOLDER);
-			trie.printWordCount();
+			tri.executeAutoSuggestions(Constants.WIKI_OUTPUT_FOLDER, "java");
 		} catch (IOException e) {
+			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
 	}
-
+	
 }

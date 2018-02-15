@@ -3315,3 +3315,49 @@
 ./src/main/resources/wiki_wordcount/wordcount_int.txt
 2018-02-06 23:51:48,827 ERROR [com.java.learning.multithreading.word.WordCount] - Error while writing to the file :./src/main/resources/wiki_wordcount/wordcount_int.txt
 2018-02-06 23:51:48,827 ERROR [com.java.learning.multithreading.word.WordCount] - Error while streaming the files : ./src/main/resources/wiki_wordcount/wordcount_int.txt
+2018-02-15 13:12:14,149 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 13:12:30,468 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 13:21:47,954 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 13:24:27,703 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 13:25:12,638 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 15:00:05,347 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 15:02:21,878 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 15:03:42,933 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 15:07:15,312 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 15:08:44,348 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 15:09:06,560 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 15:09:24,231 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 15:09:35,838 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 15:09:48,216 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 15:10:05,178 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 15:21:52,841 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 15:29:31,422 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 15:33:40,924 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 15:33:40,925 INFO [com.java.learning.multithreading.word.WordCountTrie] - Execuitng wordcount for the folder :./src/main/resources/wiki_output/
+2018-02-15 15:33:41,040 INFO [com.java.learning.multithreading.word.WordCountTrie] - No of executors taken : 5
+2018-02-15 15:33:41,975 INFO [com.java.learning.multithreading.word.WordCountTrie] - Completed the  wordcount
+2018-02-15 15:42:09,154 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 15:45:19,190 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 15:46:03,866 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 15:46:29,337 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 15:47:13,755 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 15:47:26,669 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 15:48:25,703 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 15:49:27,057 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 15:50:01,898 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 16:05:44,671 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 16:05:44,673 INFO [com.java.learning.multithreading.word.AutoSuggestTrie] - Execuitng wordcount for the folder :./src/main/resources/wiki_output/
+2018-02-15 16:05:44,764 INFO [com.java.learning.multithreading.word.AutoSuggestTrie] - No of executors taken : 5
+2018-02-15 16:05:45,057 INFO [com.java.learning.multithreading.word.AutoSuggestTrie] - Completed the  wordcount
+2018-02-15 16:08:06,780 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 16:08:06,781 INFO [com.java.learning.multithreading.word.AutoSuggestTrie] - Execuitng wordcount for the folder :./src/main/resources/wiki_output/
+2018-02-15 16:08:06,859 INFO [com.java.learning.multithreading.word.AutoSuggestTrie] - No of executors taken : 5
+2018-02-15 16:08:07,163 INFO [com.java.learning.multithreading.word.AutoSuggestTrie] - Completed the  wordcount
+2018-02-15 16:08:34,538 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 16:08:34,540 INFO [com.java.learning.multithreading.word.AutoSuggestTrie] - Execuitng wordcount for the folder :./src/main/resources/wiki_output/
+2018-02-15 16:08:34,620 INFO [com.java.learning.multithreading.word.AutoSuggestTrie] - No of executors taken : 5
+2018-02-15 16:08:35,539 INFO [com.java.learning.multithreading.word.AutoSuggestTrie] - Completed the  wordcount
+2018-02-15 16:10:52,895 INFO [com.java.learning.multithreading.ds.Trie] - Created the trie data structure : Contructor()
+2018-02-15 16:10:52,896 INFO [com.java.learning.multithreading.word.AutoSuggestTrie] - Execuitng wordcount for the folder :./src/main/resources/wiki_output/
+2018-02-15 16:10:52,974 INFO [com.java.learning.multithreading.word.AutoSuggestTrie] - No of executors taken : 5
+2018-02-15 16:10:54,821 INFO [com.java.learning.multithreading.word.AutoSuggestTrie] - Completed the  wordcount
