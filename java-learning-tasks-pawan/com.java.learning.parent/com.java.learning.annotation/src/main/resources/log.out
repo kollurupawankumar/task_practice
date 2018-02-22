@@ -1,0 +1,44 @@
+2018-02-23 01:54:22,658 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Annotation service implementation 
+2018-02-23 01:54:22,670 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Document Name :bank
+2018-02-23 01:54:22,673 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Field Name :accountNumber
+2018-02-23 01:54:22,673 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Annotation Name :com.java.learning.annotation.custom.AccountValidation
+2018-02-23 01:54:22,674 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Annotation value :301038920
+2018-02-23 01:54:22,676 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Field Name :customerName
+2018-02-23 01:54:22,676 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Annotation Name :com.java.learning.annotation.custom.ContactPropertiesValidation
+2018-02-23 01:54:22,676 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Annotation value :null
+2018-02-23 01:54:22,676 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Field Name :address
+2018-02-23 01:54:22,676 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Field Name :mobileNumber
+2018-02-23 01:54:22,676 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Annotation Name :com.java.learning.annotation.custom.ContactPropertiesValidation
+2018-02-23 01:54:22,676 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Annotation value :null
+2018-02-23 01:54:22,676 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Field Name :email
+2018-02-23 01:54:22,676 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Annotation Name :com.java.learning.annotation.custom.ContactPropertiesValidation
+2018-02-23 01:54:22,676 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Annotation value :null
+2018-02-23 01:54:22,676 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Doc Name :bank Doc Status :false
+2018-02-23 01:54:22,676 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Document Name :aadhar
+2018-02-23 01:54:22,676 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Field Name :aadharNo
+2018-02-23 01:54:22,676 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Annotation Name :com.java.learning.annotation.custom.AccountValidation
+2018-02-23 01:54:22,677 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Annotation value :8206223333445566
+2018-02-23 01:54:22,677 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Field Name :fullname
+2018-02-23 01:54:22,677 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Annotation Name :com.java.learning.annotation.custom.ContactPropertiesValidation
+2018-02-23 01:54:22,677 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Annotation value :null
+2018-02-23 01:54:22,677 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Field Name :gender
+2018-02-23 01:54:22,677 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Annotation Name :com.java.learning.annotation.custom.ContactPropertiesValidation
+2018-02-23 01:54:22,677 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Annotation value :null
+2018-02-23 01:54:22,677 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Field Name :address
+2018-02-23 01:54:22,677 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Field Name :dob
+2018-02-23 01:54:22,677 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Annotation Name :com.java.learning.annotation.custom.ContactPropertiesValidation
+2018-02-23 01:54:22,677 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Annotation value :null
+2018-02-23 01:54:22,677 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Doc Name :aadhar Doc Status :false
+2018-02-23 01:54:22,678 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Document Name :pan
+2018-02-23 01:54:22,678 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Field Name :fullname
+2018-02-23 01:54:22,678 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Annotation Name :com.java.learning.annotation.custom.ContactPropertiesValidation
+2018-02-23 01:54:22,678 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Annotation value :null
+2018-02-23 01:54:22,678 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Field Name :fatherName
+2018-02-23 01:54:22,678 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Field Name :panNumber
+2018-02-23 01:54:22,678 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Annotation Name :com.java.learning.annotation.custom.AccountValidation
+2018-02-23 01:54:22,678 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Annotation value :BLDPK3848M
+2018-02-23 01:54:22,679 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Field Name :issuedBy
+2018-02-23 01:54:22,679 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Field Name :dob
+2018-02-23 01:54:22,679 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Annotation Name :com.java.learning.annotation.custom.ContactPropertiesValidation
+2018-02-23 01:54:22,679 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Annotation value :null
+2018-02-23 01:54:22,679 INFO [com.java.learning.annotation.custom.service.AnnotationService] - Doc Name :pan Doc Status :false

@@ -3,10 +3,15 @@ package com.java.learning.annotation.model;
 import java.util.Date;
 
 import com.java.learning.annotation.custom.AccountValidation;
+import com.java.learning.annotation.custom.ConsistencyValidation;
 import com.java.learning.annotation.custom.DocumentType;
 import com.java.learning.annotation.custom.ContactPropertiesValidation;
 
-
+/**
+ * Aadhar information
+ * @author pawank
+ *
+ */
 @DocumentType(docName="aadhar", description="this is aadhar details")
 public class Aadhar implements Document{
 
@@ -14,6 +19,7 @@ public class Aadhar implements Document{
 	private String aadharNo;
 
 	@ContactPropertiesValidation(value="name")
+	@ConsistencyValidation
 	private String fullname;
 
 	@ContactPropertiesValidation(value="gender")
@@ -22,7 +28,17 @@ public class Aadhar implements Document{
 	private String address;
 
 	@ContactPropertiesValidation(value="dob")
-	private Date dob;
+	private String dob;
+	
+	public Aadhar(String aadharNo, String fullName, String gender,
+					String address, String dob){
+		this.aadharNo=aadharNo;
+		this.fullname=fullName;
+		this.gender=gender;
+		this.address=address;
+		this.dob=dob;
+	}
+	
 	
 	public Aadhar() {
 		this.aadharNo="8206223333445566";
@@ -60,12 +76,14 @@ public class Aadhar implements Document{
 		this.address = address;
 	}
 
-	public Date getDob() {
+	public String getDob() {
 		return dob;
 	}
 
-	public void setDob(Date dob) {
+	public void setDob(String dob) {
 		this.dob = dob;
 	}
+
+	
 
 }
