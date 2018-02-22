@@ -27,5 +27,6 @@
   <modules>
     <module>com.java.learning.multithreading</module>
     <module>com.java.learning.annotation</module>
+    <module>com.java.learning.collections</module>
   </modules>
 </project>
