@@ -4,6 +4,7 @@ import java.util.Date;
 
 import com.java.learning.annotation.custom.AccountValidation;
 import com.java.learning.annotation.custom.DocumentType;
+import com.java.learning.annotation.custom.ContactPropertiesValidation;
 
 
 @DocumentType(docName="aadhar", description="this is aadhar details")
@@ -12,12 +13,15 @@ public class Aadhar implements Document{
 	@AccountValidation(value="aadhar")
 	private String aadharNo;
 
+	@ContactPropertiesValidation(value="name")
 	private String fullname;
 
+	@ContactPropertiesValidation(value="gender")
 	private String gender;
 
 	private String address;
 
+	@ContactPropertiesValidation(value="dob")
 	private Date dob;
 	
 	public Aadhar() {

@@ -2,6 +2,7 @@ package com.java.learning.annotation.model;
 
 import com.java.learning.annotation.custom.AccountValidation;
 import com.java.learning.annotation.custom.DocumentType;
+import com.java.learning.annotation.custom.ContactPropertiesValidation;
 
 @DocumentType(docName="bank", description="This is bank details")
 public class Bank  implements Document{
@@ -9,12 +10,15 @@ public class Bank  implements Document{
 	@AccountValidation(value="bank")
 	private String accountNumber;
 
+	@ContactPropertiesValidation(value="name")
 	private String customerName;
 
 	private String address;
 
+	@ContactPropertiesValidation(value="phone")
 	private String mobileNumber;
 
+	@ContactPropertiesValidation(value="email")
 	private String email;
 	
 	public Bank() {

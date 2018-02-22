@@ -7,10 +7,12 @@ import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
-
 /**
- * Custom annotation to hold details 
- * like pan number, aadhar number and bank account number 
+ * Custom annotation to hold contact details like
+ * name
+ * phone
+ * email
+ * dob 
  * @author pawank
  *
  */
@@ -18,6 +20,6 @@ import java.lang.annotation.Target;
 @Documented
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.FIELD)
-public @interface AccountValidation {
+public @interface ContactPropertiesValidation {
 	public String value();
 }

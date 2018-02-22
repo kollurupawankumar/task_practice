@@ -3,12 +3,14 @@ package com.java.learning.annotation.model;
 import java.util.Date;
 
 import com.java.learning.annotation.custom.AccountValidation;
+import com.java.learning.annotation.custom.ContactPropertiesValidation;
 import com.java.learning.annotation.custom.DocumentType;
 
 
 @DocumentType(docName="pan", description="This is pan details")
 public class PanDetails  implements Document{
 
+	@ContactPropertiesValidation(value="name")
 	private String fullname;
 
 	private String fatherName;
@@ -18,6 +20,7 @@ public class PanDetails  implements Document{
 
 	private String issuedBy;
 
+	@ContactPropertiesValidation(value="dob")
 	private Date dob;
 	
 	public PanDetails() {
