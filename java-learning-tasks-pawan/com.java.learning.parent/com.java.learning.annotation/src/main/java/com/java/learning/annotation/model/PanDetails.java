@@ -1,7 +1,5 @@
 package com.java.learning.annotation.model;
 
-import java.util.Date;
-
 import com.java.learning.annotation.custom.AccountValidation;
 import com.java.learning.annotation.custom.ConsistencyValidation;
 import com.java.learning.annotation.custom.ContactPropertiesValidation;
@@ -27,7 +25,7 @@ public class PanDetails  implements Document{
 
 	private String issuedBy;
 
-	@ContactPropertiesValidation(value="dob")
+	@ContactPropertiesValidation(value="date")
 	private String dob;
 	
 	

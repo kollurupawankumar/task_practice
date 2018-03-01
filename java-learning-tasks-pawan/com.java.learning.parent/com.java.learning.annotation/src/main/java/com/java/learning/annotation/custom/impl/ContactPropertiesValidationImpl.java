@@ -24,7 +24,7 @@ public class ContactPropertiesValidationImpl implements Validation<ContactProper
 		String regex=null;
 		if (Constants.NAME.equalsIgnoreCase(type)){
 			regex="[a-zA-Z]+";
-		}else if (Constants.DOB.equalsIgnoreCase(type)) {
+		}else if (Constants.DATE.equalsIgnoreCase(type)) {
 			regex="\\d{2}-\\d{2}-\\d{4}";
 		}else if (Constants.PHONE.equalsIgnoreCase(type)) {
 			regex="\\d{10}";

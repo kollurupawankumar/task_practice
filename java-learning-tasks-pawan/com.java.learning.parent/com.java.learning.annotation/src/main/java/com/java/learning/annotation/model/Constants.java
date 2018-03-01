@@ -13,6 +13,6 @@ public class Constants {
 	
 	public static final String PHONE="PHONE";
 	
-	public static final String DOB="DOB";
+	public static final String DATE="DATE";
 
 }

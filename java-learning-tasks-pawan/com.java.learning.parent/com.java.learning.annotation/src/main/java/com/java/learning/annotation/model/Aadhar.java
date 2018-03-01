@@ -1,11 +1,9 @@
 package com.java.learning.annotation.model;
 
-import java.util.Date;
-
 import com.java.learning.annotation.custom.AccountValidation;
 import com.java.learning.annotation.custom.ConsistencyValidation;
-import com.java.learning.annotation.custom.DocumentType;
 import com.java.learning.annotation.custom.ContactPropertiesValidation;
+import com.java.learning.annotation.custom.DocumentType;
 
 /**
  * Aadhar information
@@ -27,7 +25,7 @@ public class Aadhar implements Document{
 
 	private String address;
 
-	@ContactPropertiesValidation(value="dob")
+	@ContactPropertiesValidation(value="date")
 	private String dob;
 	
 	public Aadhar(String aadharNo, String fullName, String gender,
